@@ -1,3 +1,4 @@
+![image](https://github.com/AndersonSilva94/letmeask/blob/main/assets/1%20-%20NLW%20%2305%20-%202560x1080.png)
 # Projeto LetMeAsk - Trilha ReactJs (NLW 6 - Together) :rocket:
 
 ## O que será desenvolvido?
@@ -5,7 +6,6 @@
 * Administrador: Aplicação que permite que o criador da sala veja e tenha interação com as perguntas existentes, podendo marcar como respondidas, excluí-las e destacá-las.
 
 ## Dia 1 - Liftoff :rocket:
----
 - [x] Fluxo de um SPA
 - [x] Iniciando projeto com React
 - [x] Criando projeto Firebase
