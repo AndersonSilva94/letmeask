@@ -1,5 +1,8 @@
 import firebase from 'firebase/app';
 
+import 'firebase/auth';
+import 'firebase/database';
+
 const firebaseConfig = {
   apiKey: "AIzaSyAhfDHsL3D603vZUQrfFDHwMPICVckJiXI",
   authDomain: "letmeask-afb92.firebaseapp.com",
@@ -10,4 +13,7 @@ const firebaseConfig = {
   appId: "1:334044852531:web:b37cfcfddfaa0f0fae0e46"
 };
 
-firebase.initializeApp(firebaseConfig)
+firebase.initializeApp(firebaseConfig);
+
+export const auth = firebase.auth();
+export const database = firebase.database();
