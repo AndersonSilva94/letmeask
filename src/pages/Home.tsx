@@ -1,8 +1,7 @@
-import { useContext } from 'react';
+import { useAuth } from '../hooks/useAuth';
 import { useHistory } from 'react-router-dom';
 
 // import { auth, firebase } from '../services/firebase';
-import { AuthContext } from '../contexts/AuthContext';
 
 import illustrationImg from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
@@ -15,7 +14,7 @@ import '../styles/auth.scss'
 
 export function Home() {
   const history = useHistory(); // o hook tem que acontecer dentro do componente, pois faz uso de informações do contexto do componente
-  const { user, signInWithGoogle } = useContext(AuthContext);
+  const { user, signInWithGoogle } = useAuth();
 
   async function handleCreateRoom(){
     if(!user) {
