@@ -22,9 +22,10 @@
 - [x] Contexto de autenticação
 - [x] Recuperar o estado de autenticação
 - [ ] Criando hook de autenticação
-- [ ] Criação de sala
+
+<!-- - [ ] Criação de sala
 - [ ] Entrando na sala
-- [ ] Estipulando autorização
+- [ ] Estipulando autorização -->
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
