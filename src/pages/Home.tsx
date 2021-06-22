@@ -1,3 +1,4 @@
+import { useHistory } from 'react-router-dom';
 import { Button } from '../components/Button'
 import illustrationImg from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
@@ -6,6 +7,12 @@ import '../styles/auth.scss'
 // webpack (Module Bundler) -> pega a extensão do arquivo e configura de forma predeterminada como cada um será lido no código
 
 export function Home() {
+  const history = useHistory(); // o hook tem que acontecer dentro do componente, pois faz uso de informações do contexto do componente
+
+  function navigateToNewRoom(){
+    history.push('/rooms/new')
+  }
+
   return (
     <div id="page-auth">
       <aside>
@@ -16,7 +23,7 @@ export function Home() {
       <main>
         <div className="main-content">
           <img src={logoImg} alt="Letmeask" />
-          <button className="create-room">
+          <button onClick={navigateToNewRoom} className="create-room">
             <img src={googleIconImg} alt="Logo do Google" />
             Crie sua sala com o Google
           </button>
