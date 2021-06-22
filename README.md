@@ -1,4 +1,4 @@
-![image](https://github.com/AndersonSilva94/letmeask/blob/main/assets/1%20-%20NLW%20%2305%20-%202560x1080.png)
+![1 - NLW #05 - 2560x1080](https://user-images.githubusercontent.com/52717632/122936379-1b56b600-d33f-11eb-8b4b-c8e8b816f29e.png)
 # Projeto LetMeAsk - Trilha ReactJs (NLW 6 - Together) :rocket:
 
 ## O que será desenvolvido?
