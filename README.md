@@ -20,7 +20,7 @@
 - [x] Autenticação com firebase
 - [x] Contextos no React
 - [x] Contexto de autenticação
-- [ ] Recuperar o estado de autenticação
+- [x] Recuperar o estado de autenticação
 - [ ] Criando hook de autenticação
 - [ ] Criação de sala
 - [ ] Entrando na sala
