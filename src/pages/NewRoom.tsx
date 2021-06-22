@@ -1,7 +1,7 @@
 import { Button } from '../components/Button'
 import illustrationImg from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
-import googleIconImg from '../assets/images/google-icon.svg';
+// import googleIconImg from '../assets/images/google-icon.svg';
 import '../styles/auth.scss'
 // webpack (Module Bundler) -> pega a extensão do arquivo e configura de forma predeterminada como cada um será lido no código
 
