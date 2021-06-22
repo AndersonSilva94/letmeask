@@ -19,7 +19,7 @@
 - [x] Roteamento e navegação
 - [x] Autenticação com firebase
 - [x] Contextos no React
-- [ ] Contexto de autenticação
+- [x] Contexto de autenticação
 - [ ] Criando hook de autenticação
 - [ ] Criação de sala
 - [ ] Entrando na sala
