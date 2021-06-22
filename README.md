@@ -16,7 +16,7 @@
 ## Dia 2 - Maximum Speed :rocket::rocket:
 - [x] Tela de autenticação
 - [x] Tela de criação de sala
-- [ ] Roteamento e navegação
+- [x] Roteamento e navegação
 - [ ] Autenticação com firebase
 - [ ] Contextos no React
 - [ ] Contexto de autenticação
