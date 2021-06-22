@@ -21,7 +21,7 @@
 - [x] Contextos no React
 - [x] Contexto de autenticação
 - [x] Recuperar o estado de autenticação
-- [ ] Criando hook de autenticação
+- [x] Criando hook de autenticação
 
 <!-- - [ ] Criação de sala
 - [ ] Entrando na sala
