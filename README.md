@@ -17,7 +17,7 @@
 - [x] Tela de autenticação
 - [x] Tela de criação de sala
 - [x] Roteamento e navegação
-- [ ] Autenticação com firebase
+- [x] Autenticação com firebase
 - [ ] Contextos no React
 - [ ] Contexto de autenticação
 - [ ] Criando hook de autenticação
