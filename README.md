@@ -12,5 +12,18 @@
 - [x] Conectando Firebase no React
 - [x] Criando variáveis de ambiente
 
+
+## Dia 2 - Maximum Speed :rocket::rocket:
+- [ ] Tela de autenticação
+- [ ] Tela de criação de sala
+- [ ] Roteamento e navegação
+- [ ] Autenticação com firebase
+- [ ] Contextos no React
+- [ ] Contexto de autenticação
+- [ ] Criando hook de autenticação
+- [ ] Criação de sala
+- [ ] Entrando na sala
+- [ ] Estipulando autorização
+
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
