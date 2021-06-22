@@ -1,16 +1,23 @@
+import { useContext } from 'react';
 import { useHistory } from 'react-router-dom';
 
 import { auth, firebase } from '../services/firebase';
 
-import { Button } from '../components/Button'
 import illustrationImg from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
 import googleIconImg from '../assets/images/google-icon.svg';
+
+import { Button } from '../components/Button'
+
+import { TestContext } from '../App';
+
 import '../styles/auth.scss'
 // webpack (Module Bundler) -> pega a extensão do arquivo e configura de forma predeterminada como cada um será lido no código
 
 export function Home() {
   const history = useHistory(); // o hook tem que acontecer dentro do componente, pois faz uso de informações do contexto do componente
+
+  const value = useContext(TestContext);
 
   function handleCreateRoom(){
     const provider = new firebase.auth.GoogleAuthProvider();
@@ -32,6 +39,7 @@ export function Home() {
       </aside>
       <main>
         <div className="main-content">
+          <h1>{value}</h1>
           <img src={logoImg} alt="Letmeask" />
           <button onClick={handleCreateRoom} className="create-room">
             <img src={googleIconImg} alt="Logo do Google" />
