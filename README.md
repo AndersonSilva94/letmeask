@@ -12,7 +12,6 @@
 - [x] Conectando Firebase no React
 - [x] Criando variáveis de ambiente
 
-
 ## Dia 2 - Autenticação (Maximum Speed) :rocket::rocket:
 - [x] Tela de autenticação
 - [x] Tela de criação de sala
@@ -23,9 +22,15 @@
 - [x] Recuperar o estado de autenticação
 - [x] Criando hook de autenticação
 
-<!-- - [ ] Criação de sala
-- [ ] Entrando na sala
-- [ ] Estipulando autorização -->
+## Dia 3 - Fluxo de Salas (In Orbit) :rocket::rocket::rocket:
+- [x] Criação de sala
+- [x] Entrando na sala
+- [x] Estipulando autorização
+- [x] Página da sala (Parte 1)
+- [x] Criando nova pergunta
+- [x] Consumindo perguntas do Firebase
+- [x] 'Ouvindo' novas perguntas
+<!-- - [ ] Criando hook `useRoom` -->
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
