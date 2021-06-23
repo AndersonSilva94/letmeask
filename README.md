@@ -23,7 +23,7 @@
 - [x] Criando hook de autenticação
 
 ## Dia 3 - Fluxo de Salas (In Orbit) :rocket::rocket::rocket:
-- [ ] Criação de sala
+- [x] Criação de sala
 - [ ] Entrando na sala
 - [ ] Estipulando autorização
 - [ ] Página da sala
