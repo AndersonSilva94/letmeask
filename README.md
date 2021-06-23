@@ -30,7 +30,7 @@
 - [x] Criando nova pergunta
 - [x] Consumindo perguntas do Firebase
 - [x] 'Ouvindo' novas perguntas
-- [ ] Criando hook `useRoom`
+<!-- - [ ] Criando hook `useRoom` -->
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
