@@ -24,7 +24,7 @@
 
 ## Dia 3 - Fluxo de Salas (In Orbit) :rocket::rocket::rocket:
 - [x] Criação de sala
-- [ ] Entrando na sala
+- [x] Entrando na sala
 - [ ] Estipulando autorização
 - [ ] Página da sala
 - [ ] Criando nova pergunta
