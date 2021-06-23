@@ -25,7 +25,7 @@
 ## Dia 3 - Fluxo de Salas (In Orbit) :rocket::rocket::rocket:
 - [x] Criação de sala
 - [x] Entrando na sala
-- [ ] Estipulando autorização
+- [x] Estipulando autorização
 - [ ] Página da sala
 - [ ] Criando nova pergunta
 - [ ] Consumindo perguntas do Firebase
