@@ -28,8 +28,8 @@
 - [x] Estipulando autorização
 - [x] Página da sala (Parte 1)
 - [x] Criando nova pergunta
-- [ ] Consumindo perguntas do Firebase
-- [ ] 'Ouvindo' novas perguntas
+- [x] Consumindo perguntas do Firebase
+- [x] 'Ouvindo' novas perguntas
 - [ ] Criando hook `useRoom`
 
 ---
