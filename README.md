@@ -26,7 +26,7 @@
 - [x] Criação de sala
 - [x] Entrando na sala
 - [x] Estipulando autorização
-- [ ] Página da sala (Parte 1)
+- [x] Página da sala (Parte 1)
 - [ ] Criando nova pergunta
 - [ ] Consumindo perguntas do Firebase
 - [ ] 'Ouvindo' novas perguntas
