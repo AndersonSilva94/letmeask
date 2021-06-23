@@ -27,7 +27,7 @@
 - [x] Entrando na sala
 - [x] Estipulando autorização
 - [x] Página da sala (Parte 1)
-- [ ] Criando nova pergunta
+- [x] Criando nova pergunta
 - [ ] Consumindo perguntas do Firebase
 - [ ] 'Ouvindo' novas perguntas
 - [ ] Criando hook `useRoom`
