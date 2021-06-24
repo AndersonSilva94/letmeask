@@ -119,3 +119,5 @@ export function Room() {
 
 // ****************************
 // Lembrete: pesquisa a biblioteca react hot toast
+
+// Lembrete: pesquisa react modal
