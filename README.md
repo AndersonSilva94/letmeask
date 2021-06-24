@@ -33,7 +33,7 @@
 
 ## Dia 4 - Interação com salas (Landing) :rocket::rocket::rocket::rocket:
 - [x] Estrutura das perguntas (HTML e CSS)
-- [ ] Criando hook `useRoom`
+- [x] Criando hook `useRoom`
 - [ ] Funcionalidade de like
 - [ ] Página de sala (admin)
 - [ ] Componente de modal
