@@ -35,7 +35,7 @@
 - [x] Estrutura das perguntas (HTML e CSS)
 - [x] Criando hook `useRoom`
 - [x] Página de sala (admin)
-- [ ] Funcionalidade de like
+- [x] Funcionalidade de like
 - [ ] Componente de modal
 - [ ] Remoção de pergunta
 - [ ] Encerrar sala
