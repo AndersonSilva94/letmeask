@@ -32,7 +32,7 @@
 - [x] 'Ouvindo' novas perguntas
 
 ## Dia 4 - Interação com salas (Landing) :rocket::rocket::rocket::rocket:
-- [ ] Estrutura das perguntas (HTML e CSS)
+- [x] Estrutura das perguntas (HTML e CSS)
 - [ ] Criando hook `useRoom`
 - [ ] Funcionalidade de like
 - [ ] Página de sala (admin)
