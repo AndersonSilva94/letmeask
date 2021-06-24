@@ -30,7 +30,15 @@
 - [x] Criando nova pergunta
 - [x] Consumindo perguntas do Firebase
 - [x] 'Ouvindo' novas perguntas
-<!-- - [ ] Criando hook `useRoom` -->
+
+## Dia 4 - Interação com salas (Landing) :rocket::rocket::rocket::rocket:
+- [ ] Estrutura das perguntas (HTML e CSS)
+- [ ] Criando hook `useRoom`
+- [ ] Funcionalidade de like
+- [ ] Página de sala (admin)
+- [ ] Componente de modal
+- [ ] Remoção de pergunta
+- [ ] Encerrar sala
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
