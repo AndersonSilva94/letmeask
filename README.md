@@ -37,7 +37,7 @@
 - [x] Página de sala (admin)
 - [x] Funcionalidade de like
 - [x] Remoção de pergunta
-- [ ] Encerrar sala
+- [x] Encerrar sala
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
