@@ -36,7 +36,7 @@
 - [x] Criando hook `useRoom`
 - [x] Página de sala (admin)
 - [x] Funcionalidade de like
-- [ ] Remoção de pergunta
+- [x] Remoção de pergunta
 - [ ] Encerrar sala
 
 ---
