@@ -43,7 +43,7 @@
 - [x] HTML e CSS de destaque e respondida
 - [x] Dar destaque na pergunta
 - [x] Marcar como respondida
-- [ ] Hospedando projeto
+- [x] Hospedando projeto
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
