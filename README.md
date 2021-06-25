@@ -39,5 +39,11 @@
 - [x] Remoção de pergunta
 - [x] Encerrar sala
 
+## Dia 5 - Controles do admin (Surface Exploration) :rocket::rocket::rocket::rocket::rocket:
+- [ ] HTML e CSS de destaque e respondida
+- [ ] Dar destaque na pergunta
+- [ ] Marcar como respondida
+- [ ] Hospedando projeto
+
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
