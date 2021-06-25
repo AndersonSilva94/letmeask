@@ -40,9 +40,9 @@
 - [x] Encerrar sala
 
 ## Dia 5 - Controles do admin (Surface Exploration) :rocket::rocket::rocket::rocket::rocket:
-- [ ] HTML e CSS de destaque e respondida
-- [ ] Dar destaque na pergunta
-- [ ] Marcar como respondida
+- [x] HTML e CSS de destaque e respondida
+- [x] Dar destaque na pergunta
+- [x] Marcar como respondida
 - [ ] Hospedando projeto
 
 ---
